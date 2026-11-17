@@ -12,11 +12,11 @@ dependencies = [
 [project.optional-dependencies]
 
 [project.urls]
-Homepage = "https://github.com/UniEnvOrg/ManiskillAdaptor"
-Documentation = "https://github.com/UniEnvOrg/ManiskillAdaptor"
-Repository = "https://github.com/UniEnvOrg/ManiskillAdaptor"
-Issues = "https://github.com/UniEnvOrg/ManiskillAdaptor/issues"
-Changelog = "https://github.com/UniEnvOrg/ManiskillAdaptor/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/UniEnvOrg/unienv-maniskill"
+Documentation = "https://github.com/UniEnvOrg/unienv-maniskill"
+Repository = "https://github.com/UniEnvOrg/unienv-maniskill"
+Issues = "https://github.com/UniEnvOrg/unienv-maniskill/issues"
+Changelog = "https://github.com/UniEnvOrg/unienv-maniskill/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 include = ["*"]
